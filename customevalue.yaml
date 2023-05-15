@@ -1,0 +1,6 @@
+database:
+  volume:
+    storageClassName: hostpath
+  rootPassword: ogech123@123ABC
+  application:
+  name: ''
