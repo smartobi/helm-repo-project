@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  Library:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2023-05-15T15:02:34.9310142+01:00"
+    description: A Helm Chart for Library application deployment
+    digest: dbd753876f7f0197473969a1e9fe9a387d9e6a7a76c9efcec9453d14259cdc0a
+    name: Library
+    type: application
+    urls:
+    - Library-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-05-15T15:02:34.9140559+01:00"
